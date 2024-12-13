@@ -2,7 +2,7 @@
 
 
 
-------------- svolgimento dell' esercizio
+------------------svolgimento dell' esercizio
 
 
 - Preparo il foglio per scrivere la lista
