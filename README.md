@@ -8,8 +8,7 @@
 - Preparo il foglio per scrivere la lista
 - aggiungo le crocchette per Ricky alla lista
 - Apro il frigo
-- Finchè non mi rendo conto che non mi manca niente
-        - controllo il frigo
+- Finchè non ho controllato tutto il frigo
          - SE trovo alimenti mancanti:
              .  Lo aggiungo alla lista
 - Mi dirigo verso il supermercato
